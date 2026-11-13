@@ -1,3 +1,3 @@
-# APEX 2026 Pit Wall Demo
+# APEX 2026 Pit Wall
 
-Static GitHub Pages demo. All race data is synthetic.
+GitHub Pages entry point for the Windows PS5 live dashboard.
